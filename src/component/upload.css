@@ -1,0 +1,48 @@
+.uploadpath{
+
+    border: 2px black solid;
+    height: 400px;
+    border-radius:20px;
+    margin:20px;
+}
+.inputpath{
+    margin-top: 10px;
+    margin-bottom: 40px;
+    margin-left: 200px;
+}
+
+.btn .upload{
+    width: 450px;
+    height: 40px;
+    background-color:#5484FF;
+    color:white;
+    border-radius:20px;
+    border:none;
+    font-weight: bolder;
+}
+.btn .cancel{
+    background-color:white;
+    border:none
+}
+.title-text{
+    height: 150px;
+    width: 340px;
+    text-align: center;
+    border:none;
+}
+.inputpic{
+    margin-top: 90px;
+    margin-left: 50px;
+}
+.description-text{
+    width:340px ;
+    text-align: center;
+}
+
+.upload:hover{
+    border:none;
+}
+.loop{
+    margin:30px;
+
+}

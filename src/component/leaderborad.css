@@ -1,0 +1,23 @@
+.table-content{
+    width: 70%;
+    border:4px black solid;
+    border-radius: 10px;
+    align-items:center;
+    margin-top:10px;
+    margin-right:40px;
+    margin-bottom: 70px;
+}
+.table-heart img{
+    width: 20px;
+    margin-right: 5px;
+}
+
+.table-fix{
+    margin-bottom: 0px;
+    transform: translate(20px,-30px);
+}
+
+
+.table-rank {
+    background-color:black;
+}

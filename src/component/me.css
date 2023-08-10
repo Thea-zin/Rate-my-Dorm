@@ -1,0 +1,39 @@
+.profile{
+    background-color:#4F447E;
+    height: 650px;
+    
+}
+.profile-board{
+    width: 70%;
+    height: 60%;
+    background-color:white;
+    font-weight: bolder;
+    border-radius: 20px;
+}
+.profile-info{
+    margin-top:7%;
+}
+.profile-info .col{
+    padding-top:30px;
+}
+.btn-edit{
+    margin-top: 40px;
+}
+.profile-pic {
+    border:2px black solid;
+    border-radius:20px;
+
+}
+.profile-pic img{
+    width: 200px;
+    margin-top: 80px;
+    border:2px  solid;
+}
+.btn-edit button{
+    background-color:#007bff;
+    color:white;
+    border:none;
+    width: 200px;
+    
+}
+

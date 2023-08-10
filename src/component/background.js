@@ -1,9 +1,10 @@
 import React from 'react'
 import '../style/background.css'
 const background = () => {
+ 
   return (
-    <div className='background'></div>
-  )
+    <div>heefg</div>
+  );
 }
 
 export default background

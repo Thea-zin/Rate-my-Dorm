@@ -1,0 +1,42 @@
+.footer{
+    border:2px black solid ;
+    height: 300px;
+    margin-top:80px;
+}
+.footer-bold{
+    font-size: 40px;
+    font-family: 'Exo 2', sans-serif;
+    font-weight: bolder;
+    margin-top:80px;
+}
+.donate-button{
+    margin-left: 60px;
+    margin-top:110px;
+}
+.donate-button .btn{
+    height: 70PX;
+    width:200px;
+    font-size: 25px;
+    border-radius:20px;
+    background-color:#5484FF;
+    color:black;
+    border:2px black solid;
+}
+.footer-contact{
+    margin-top:80px;
+    font-size: 20px;
+    font-weight: light;
+}
+
+.social-contact ul{
+    list-style: none;
+    padding: 0px;
+}
+.list-style{
+    text-decoration: none;
+    color:black
+}
+.list-style:hover{
+    color:#5484FF;
+}
+
